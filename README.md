@@ -1,2 +1,2 @@
 # Python Learning
-# This is a Python Learning Project
+This is a Python Learning Project
